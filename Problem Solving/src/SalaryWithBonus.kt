@@ -6,8 +6,4 @@ fun main() {
     val result: Double = b+c*15/100
     println("Total = R$ ${result}")
 
-
-    class SalaryWithBonus {
-    }
-
 }
