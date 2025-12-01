@@ -1,3 +1,5 @@
+package beecrowd
+
 fun main() {
     println("Enter the three value : \n")
     val a:Int = readln().toInt()

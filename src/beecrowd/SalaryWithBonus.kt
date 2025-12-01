@@ -1,3 +1,5 @@
+package beecrowd
+
 fun main() {
     println("Enter the element : \n")
     val a: String = readln().toString()

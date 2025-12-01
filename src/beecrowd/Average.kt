@@ -1,3 +1,5 @@
+package beecrowd
+
 fun main(){
     println("Enter 3 number :\n")
     val a = readln().toDouble()
